@@ -1,0 +1,32 @@
+.navbar{
+    border: solid 1px #ffffff30;
+    background-image: linear-gradient(to right,#9796f0 , #ffffff33 70%);
+    padding: 12px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo{
+    display: flex;
+    align-items: center;
+    margin-left: 30px;
+}
+
+.logo-heading{
+    font-family: "Roboto";
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.score-heading{
+    font-family: "Roboto";
+    color: #ffffff;
+    font-size: 20px;
+    margin-right: 22px;
+}
+
+.scores{
+    display: flex;
+    margin-right: 30px;
+}
