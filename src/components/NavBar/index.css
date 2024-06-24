@@ -30,3 +30,13 @@
     display: flex;
     margin-right: 30px;
 }
+
+@media (max-width:300px) {
+    .navbar{
+        border: solid 1px #ffffff30;
+        background-image: linear-gradient(to right,#9796f0 , #ffffff33 70%);
+        padding: 12px;
+        display: flex;
+        flex-direction: column;
+    }
+}
